@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akrin-0
+- 👋 Hi, I’m M. Fatih Ulu - @akrin-0.
 - 👀 I’m interested in operating systems (mainly on Linux distributions), data transmission/security, and networks.
 - 🌱 I’m currently learning networking concepts, distributed systems, and performance analysis of them.
 
